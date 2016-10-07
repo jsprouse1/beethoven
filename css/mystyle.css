@@ -1,7 +1,9 @@
-/* @jcbrough */
+a {
+  text-decoration: none;
+}
+
 .topMenu p{
   display: inline-block;
-  float: right;
   font-size: small;
 }
 
@@ -42,6 +44,8 @@ nav{
 }
 
 footer{
-    
+    text-align: center;
+    font-size: small;
+    font-style: italic;
 }
 
