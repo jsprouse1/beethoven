@@ -1,5 +1,7 @@
-.topMenu{
-    
+/* @jcbrough */
+/* TODO: Algin the text to the right. */ 
+#nav_menu {
+  display: inline-block;
 }
 
 .wrapper{
@@ -30,8 +32,3 @@ footer{
     
 }
 
-/* @jcbrough */
-/* TODO: Algin the text to the right. */ 
-#nav_menu {
-  display: inline-block;
-}
