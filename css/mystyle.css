@@ -1,18 +1,30 @@
+body {
+  background-color: #827370;
+  
+}
+
 a {
   text-decoration: none;
 }
 
-.topMenu p{
+.topMenu {
+  margin: auto;
   display: inline-block;
   font-size: small;
+  margin-left:5%;
+  margin-right:5%;
+  width:90%;
+  
 }
 
 #right {
   float: right;
+  display: inline-block;
 }
 
 #left {
-  float:left;
+  float: left;
+  display: inline-block;
 }
 
 html {
@@ -20,7 +32,8 @@ html {
 }
 
 .wrapper{
-    
+    margin-left:5%;
+    margin-right:5%;
 }
 
 .mainImage{
@@ -28,18 +41,19 @@ html {
 }
 
 .header{
+  background-color: #b6aca9;
   text-align: center;
 }
 
-.summary{
+.summary {
     
 }
 
-.leftBar{
+.leftBar {
     
 }
 
-nav{
+nav {
     
 }
 
