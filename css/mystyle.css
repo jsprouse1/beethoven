@@ -34,6 +34,7 @@ html {
 .wrapper{
     margin-left:5%;
     margin-right:5%;
+    box-shadow: 5px 5px 5px #1e1e1e;
 }
 
 .mainImage{
@@ -63,3 +64,7 @@ footer{
     font-style: italic;
 }
 
+#nav_selction {
+  font-size: 1.25em;
+  font-weight: bold;
+}
