@@ -46,9 +46,6 @@ html {
   text-align: center;
 }
 
-.summary {
-    
-}
 
 .leftBar {
     
@@ -68,3 +65,21 @@ footer{
   font-size: 1.25em;
   font-weight: bold;
 }
+
+summary {
+  float: left;
+}
+
+article {
+  display: inline;
+}
+
+figure {
+  float: right;
+}
+
+section {
+  display: inline-block;
+  border: double;
+}
+
