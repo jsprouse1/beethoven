@@ -67,16 +67,24 @@ footer{
 }
 
 summary {
-  float: left;
+
+  width: 33%;
+  height: 100%;
+  
+margin-right: auto;
 }
 
 article {
-  display: inline;
-
+margin-left: auto;
+margin-right: auto;
+width: 33%;
+height: 100%;
 }
 
 figure {
-  float: right;
+  margin-left: auto;
+  width: 33%;
+  height: 100%;
 }
 
 section {
