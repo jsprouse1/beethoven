@@ -55,10 +55,12 @@ nav {
     
 }
 
-footer{
-    text-align: center;
-    font-size: small;
-    font-style: italic;
+footer {
+    text-align: left;
+    font-size: 0.6em;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom:3px;
 }
 
 #nav_selction {
@@ -66,21 +68,17 @@ footer{
   font-weight: bold;
 }
 
-summary {
+.semantics_left {
   float: left;
+  width: 32%;
 }
 
-article {
-  display: inline;
-
-}
-
-figure {
-  float: right;
-}
-
-section {
+.semantics_center {
   display: inline-block;
-  border: double;
+  width: 33%;
 }
 
+.semantics_right {
+  float: right;
+  width: 32%;
+}
