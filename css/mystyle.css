@@ -96,37 +96,12 @@ footer {
   font-weight: bold;
 }
 
-<<<<<<< HEAD
 .semantics_left {
   float: left;
   width: 32%;
 }
 
 .semantics_center {
-=======
-summary {
-
-  width: 33%;
-  height: 100%;
-  
-margin-right: auto;
-}
-
-article {
-margin-left: auto;
-margin-right: auto;
-width: 33%;
-height: 100%;
-}
-
-figure {
-  margin-left: auto;
-  width: 33%;
-  height: 100%;
-}
-
-section {
->>>>>>> 701dfedc8a6ab4d2c12e474fcfb340937163f09d
   display: inline-block;
   width: 33%;
 }
