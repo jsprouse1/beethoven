@@ -7,6 +7,8 @@ a {
   text-decoration: none;
 }
 
+
+
 .topMenu {
   margin: auto;
   display: inline-block;
@@ -27,6 +29,22 @@ a {
   display: inline-block;
 }
 
+#homeImage{
+    background-image: url(../images/beetEdited.jpg);
+}
+
+#projImage{
+    background-image: url(../images/orchestra.jpg);
+}
+
+#backImage{
+    background-image: url(../images/beetStatue.jpg);
+}
+
+#resumeImage{
+    background-image: url(../images/sheetEdited.jpg);
+}
+
 html {
   font-family: Georgia;
 }
@@ -35,15 +53,25 @@ html {
     margin-left:5%;
     margin-right:5%;
     box-shadow: 5px 5px 5px #1e1e1e;
-}
-
-.mainImage{
     
 }
 
+.mainImage{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    background-repeat: repeat-x;
+    height: 202px;
+    background-position: center;
+}
+
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 .header{
-  background-color: #b6aca9;
-  text-align: center;
+    background-color: #b6aca9;
+    text-align: center;
 }
 
 
@@ -68,12 +96,37 @@ footer {
   font-weight: bold;
 }
 
+<<<<<<< HEAD
 .semantics_left {
   float: left;
   width: 32%;
 }
 
 .semantics_center {
+=======
+summary {
+
+  width: 33%;
+  height: 100%;
+  
+margin-right: auto;
+}
+
+article {
+margin-left: auto;
+margin-right: auto;
+width: 33%;
+height: 100%;
+}
+
+figure {
+  margin-left: auto;
+  width: 33%;
+  height: 100%;
+}
+
+section {
+>>>>>>> 701dfedc8a6ab4d2c12e474fcfb340937163f09d
   display: inline-block;
   width: 33%;
 }
