@@ -65,18 +65,12 @@ html {
 }
 
 h2{
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin: auto;
 }
 
 .header{
     background-color: #b6aca9;
     text-align: center;
-}
-
-
-.leftBar {
-    
 }
 
 nav {
@@ -112,18 +106,29 @@ footer {
   width: 30%;
 }
 
-.bth{
+.bth {
 	color: #000000;
-	
 	font-weight: bold;
 }
 
-.title{
+.title {
 	color: #fff;
 	font-size: 1.25em;
 	font-weight: bold;
+	text-shadow: 2px 2px #000000;
+}
+
+.mini_box {
+  padding-top: 10px;
+  height: 75px;
+  background-color: #be4930;
 }
 
 .content {
-  padding:10px;
+  padding-top: 10px;
+}
+
+h1 {
+  padding:0px;
+  
 }
