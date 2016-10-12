@@ -43,6 +43,10 @@ a {
     background-image: url(../images/sheetEdited.jpg);
 }
 
+#contactImage{
+    background-image: url(../images/beetAtHomeEdited.jpg);
+}
+
 html {
   font-family: Georgia;
 }
