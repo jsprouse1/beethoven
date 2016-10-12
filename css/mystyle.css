@@ -133,6 +133,12 @@ h1 {
   
 }
 
+a:hover { 
+    font-weight: bold;
+}
+
+
+
 .image_right {
   float: right;
 }
