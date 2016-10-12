@@ -98,15 +98,27 @@ footer {
 
 .semantics_left {
   float: left;
-  width: 32%;
+  width: 20%;
 }
 
 .semantics_center {
   display: inline-block;
-  width: 33%;
+  width: 60%;
 }
 
 .semantics_right {
   float: right;
-  width: 32%;
+  width: 20%;
+}
+
+.bth{
+	color: #000000;
+	
+	font-weight: bold;
+}
+
+.title{
+	color: #fff;
+	font-size: 1.25em;
+	font-weight: bold;
 }
