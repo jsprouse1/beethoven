@@ -129,6 +129,10 @@ footer {
 }
 
 h1 {
-  padding:0px;
+  margin: auto;
   
+}
+
+.image_right {
+  float: right;
 }
