@@ -7,8 +7,6 @@ a {
   text-decoration: none;
 }
 
-
-
 .topMenu {
   margin: auto;
   display: inline-block;
@@ -126,6 +124,7 @@ footer {
 
 .content {
   padding-top: 10px;
+  height: 250px;
 }
 
 h1 {
