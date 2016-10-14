@@ -91,6 +91,7 @@ footer {
 #nav_selction {
   font-size: 1.25em;
   font-weight: bold;
+    color: black;
 }
 
 .semantics_left {
@@ -140,6 +141,7 @@ h1 {
 
 a:hover { 
     font-weight: bold;
+    color:black;
 }
 
 
